@@ -1,0 +1,55 @@
+body {
+	background-color: #ccc;
+	background-image: url("Images/birchbackground.jpg");
+}
+#wrapper {
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+	background-color: #ddd;
+}
+header {
+	background-color: #eee;
+	background-image: url("Images/canada150.jpg");
+	background-repeat: no-repeat;
+	background-size: 100px 100px;
+	height: 100px;
+}
+header h1 {
+	margin-left: 120px;
+	padding-top: 30px;
+	font-size: 2em;
+}
+nav {
+	background-color: #bbb;
+	height: 40px;
+	text-align: center
+}
+div.navlink {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	height: 30px;
+	border: 5px solid #666;
+	margin: 0px;
+}
+div.navlink a {
+	font-size: 1.3em;
+}
+main {
+	padding: 20px;
+}
+footer {
+	text-align: center;
+	clear: right;
+	padding: 10px;
+}
+a {
+	text-decoration: none;
+}
+.importantpeople {
+	float: right;
+}
+#period2 {
+	clear: right;
+}
